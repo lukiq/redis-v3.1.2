@@ -4,7 +4,6 @@ const redis = require('redis');
 
 module.exports = class RedisConnector {
     constructor(config) {
-        console.log('config', config);
         this.client = redis.createClient(
             {
                 socket: {

@@ -4,7 +4,7 @@ This project provides a Redis client compatible with Node.js version 10, focusin
 
 ## Setup
 
-1. Clone the repository: `git clone https://github.com/lukiq/redis-v312.git`
+1. Clone the repository: `git clone https://github.com/lukiq/redis-v3.1.2.git`
 2. Install dependencies: `npm install`
 3. Configure your Redis settings by copying `config.tpl.json` to `config.json` and editing it.
 
